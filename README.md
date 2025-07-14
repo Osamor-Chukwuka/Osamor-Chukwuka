@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Osamor-Chukwuka
-- 👀 I’m interested in software development (web dev, mobile dev)
-- 🌱 I’m currently learning machine learning with python. I'll be posting by learnings soon 
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m a software Developer
 - 📫 How to reach me: email: osamorchukwuka15@gmail.com, twitter: https://twitter.com/ChukwukaOsamor1
 [![trophy](https://github-profile-trophy.vercel.app/?username=Osamor-Chukwuka)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
